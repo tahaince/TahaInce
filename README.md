@@ -26,3 +26,6 @@
 <img width="5%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg">
 <img width="5%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
 <img  width="5%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahaince)](https://github.com/anuraghazra/github-readme-stats)
