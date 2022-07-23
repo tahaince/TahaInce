@@ -5,7 +5,7 @@
 
 
 
-<a href="https://media-exp1.licdn.com/dms/image/C4E03AQGpjzkwJ0P1Nw/profile-displayphoto-shrink_200_200/0/1633897429408?e=1660176000&v=beta&t=h0FAfAWj8fvsriOUhLbtWYj0__aeimTWyn6JVz7U34M" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+<a target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://media-exp1.licdn.com/dms/image/C4E03AQGpjzkwJ0P1Nw/profile-displayphoto-shrink_200_200/0/1633897429408?e=1660176000&v=beta&t=h0FAfAWj8fvsriOUhLbtWYj0__aeimTWyn6JVz7U34M)" height="100" /></a>
 
 Here are some ideas to get you started:
 
