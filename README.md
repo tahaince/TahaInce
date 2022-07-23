@@ -6,7 +6,7 @@
 - I am developing Web app.
 
 
-
+<br/>
 
 ## You can reach me 
 <br>
@@ -20,9 +20,7 @@
 
 <br/>
 
-### MY Skills
-
-
+### Language and Tools
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,c#)](https://skills.thijs.gg)
 <img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
