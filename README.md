@@ -11,9 +11,9 @@
 ## You can reach me 
 <br>
 <div>
-<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" witdh="50px" height="50px">
+<a href="https://www.linkedin.com/in/taha-ince-315411217/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" witdh="50px" height="50px"></a>
 <a  href="mailto:stahaince1@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"  witdh="50px" height="50px"></a>
-<img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg"  witdh="50px" height="50px">
+<a href="https://stackoverflow.com/users/16974400/tahaince"><img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg"  witdh="50px" height="50px"></a>
 
 </div>
 
