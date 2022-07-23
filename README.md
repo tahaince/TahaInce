@@ -14,7 +14,12 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,.net,c#,sql)](https://skills.thijs.gg)
 
-<img width="10%" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg">
+<img width="5%" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg">
+<img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+<img width="5%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">
+<img width="5%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
+
+
 ### MY Skills
 
 
