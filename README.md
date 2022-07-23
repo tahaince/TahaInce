@@ -1,4 +1,4 @@
-# Hi I am Taha 👋
+# <p margin="center"> Hi I am Taha 👋</p>
 
 
 - I work as an Software Developer Intern at Doğuş Teknoloji.
