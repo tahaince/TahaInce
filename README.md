@@ -12,7 +12,7 @@
 <br>
 <div>
 <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" witdh="50px" height="50px">
-<a href="stahaince1@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"  witdh="50px" height="50px"></a>
+<a "mailto: stahaince1@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"  witdh="50px" height="50px"></a>
 <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg"  witdh="50px" height="50px">
 
 </div>
