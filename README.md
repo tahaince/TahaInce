@@ -1,4 +1,4 @@
-# <p margin="center"> Hi I am Taha 👋</p>
+# <p style="margin:center"> Hi I am Taha 👋</p>
 
 
 - I work as an Software Developer Intern at Doğuş Teknoloji.
