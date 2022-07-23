@@ -19,8 +19,9 @@
 
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,.net,c#,sql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,c#)](https://skills.thijs.gg)
 <br/>
 <img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
 <img width="5%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg">
 <img width="5%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
