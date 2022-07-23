@@ -1,9 +1,8 @@
 ### Hi I am Taha 👋
 
 
-## I ussualy develop web application
 
-## You can reach me this links 
+# You can reach me 
 <br>
 <div>
 <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" witdh="50px" height="50px">
@@ -15,7 +14,7 @@
 
 
 
-### MY Skills
+## MY Skills
 
 
 
