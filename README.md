@@ -1,6 +1,12 @@
 # Hi I am Taha 👋
 
 
+- I work as an Software Developer Intern at Doğuş Teknoloji.
+- I am Student at Halic Universty
+- I am developing Web app.
+
+
+
 
 ## You can reach me 
 <br>
