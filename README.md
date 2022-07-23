@@ -7,7 +7,7 @@
 <br>
 <div>
 <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" witdh="50px" height="50px">
-<img width="5%" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg">
+<img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg"  witdh="50px" height="50px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"  witdh="50px" height="50px">
   <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg"  witdh="50px" height="50px">
 
