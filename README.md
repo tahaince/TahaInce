@@ -14,7 +14,7 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,.net,c#,sql)](https://skills.thijs.gg)
 
-<code><img width="10%" src=https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></code>
 ### MY Skills
 
 
