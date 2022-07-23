@@ -1,8 +1,8 @@
-### Hi I am Taha 👋
+# Hi I am Taha 👋
 
 
 
-# You can reach me 
+## You can reach me 
 <br>
 <div>
 <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" witdh="50px" height="50px">
@@ -12,9 +12,9 @@
 
 </div>
 
+<br/>
 
-
-## MY Skills
+### MY Skills
 
 
 
