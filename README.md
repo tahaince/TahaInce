@@ -3,7 +3,7 @@
 
 - I work as an Software Developer Intern at Doğuş Teknoloji.
 - I am a student at Halic Universty
-- I am developing Web app.
+- I am currenlty develop Backend.
 
 
 <br/>
