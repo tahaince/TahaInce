@@ -1,4 +1,3 @@
-![banner](https://www.tibco.com/sites/tibco/files/2021-04/main-banner.jpeg)
 #   Hi I am Taha 👋
 
 
