@@ -1,8 +1,8 @@
 #   Hi I am Taha 👋
 
 
-- I work as an Software Developer Intern at Doğuş Teknoloji.
-- I am a student at Halic Universty
+- I work as an Software Developer at Doğuş Teknoloji.
+- I graduated from Halic University
 - I am currenlty develop Backend.
 
 
@@ -22,7 +22,6 @@
 ### Language and Tools
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,c#)](https://skills.thijs.gg)
-<img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
 <img width="5%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg">
 <img width="5%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
 <img  width="5%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
